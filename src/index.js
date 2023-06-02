@@ -4,6 +4,7 @@ import NavBar from "./NavBar";
 import Technology from "./Technology";
 import Team from "./Team";
 import Contact from "./Contact";
+import Footer from "./Footer";
 const root = createRoot(document.querySelector("#root"));
 
 root.render(
@@ -12,5 +13,6 @@ root.render(
     <Technology></Technology>
     <Team></Team>
     <Contact></Contact>
+    <Footer></Footer>
   </>
 );

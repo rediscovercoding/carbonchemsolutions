@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carbonchemsolutions/static/css/main.f44e46cf.css",
-    "main.js": "/carbonchemsolutions/static/js/main.a83917af.js",
+    "main.css": "/carbonchemsolutions/static/css/main.5113f7e2.css",
+    "main.js": "/carbonchemsolutions/static/js/main.5e86cbcd.js",
     "static/media/background1.jpg": "/carbonchemsolutions/static/media/background1.7be33c975c3ba37e9cb3.jpg",
     "static/media/Koustubh.jpg": "/carbonchemsolutions/static/media/Koustubh.e8279edfd701c6e53d7d.jpg",
     "static/media/Chris.jpg": "/carbonchemsolutions/static/media/Chris.131dde57ee7741d4bef6.jpg",
     "static/media/Sandra.jpg": "/carbonchemsolutions/static/media/Sandra.4f923fbed227bbc84dc2.jpg",
     "index.html": "/carbonchemsolutions/index.html",
-    "main.f44e46cf.css.map": "/carbonchemsolutions/static/css/main.f44e46cf.css.map",
-    "main.a83917af.js.map": "/carbonchemsolutions/static/js/main.a83917af.js.map"
+    "main.5113f7e2.css.map": "/carbonchemsolutions/static/css/main.5113f7e2.css.map",
+    "main.5e86cbcd.js.map": "/carbonchemsolutions/static/js/main.5e86cbcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f44e46cf.css",
-    "static/js/main.a83917af.js"
+    "static/css/main.5113f7e2.css",
+    "static/js/main.5e86cbcd.js"
   ]
 }
